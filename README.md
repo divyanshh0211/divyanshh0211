@@ -10,7 +10,6 @@ Outside of academics, I enjoy participating in hackathons, building projects fro
 
 **Currently Exploring:** Machine Learning, Data Analytics, Power BI, Python, and AI Applications.
 
----
 
 ## What You'll Find Here
 
@@ -21,7 +20,6 @@ Outside of academics, I enjoy participating in hackathons, building projects fro
 * Hackathon Projects
 * Learning Journey & Notes
 
----
 
 ## Tech Stack
 
@@ -47,7 +45,6 @@ Outside of academics, I enjoy participating in hackathons, building projects fro
 
 </p>
 
----
 
 ### Current Goal
 
