@@ -1,16 +1,27 @@
-<h1 align="center">Hi, I'm Divyansh Rathore</h1>
-
-<h3 align="center">
-Aspiring AI/ML Engineer | Data Analytics Enthusiast | B.Tech CSE Student
-</h3>
-
 ## About Me
 
-I am a B.Tech CSE student interested in Artificial Intelligence, Machine Learning, and Data Analytics.
+I'm a Computer Science student who enjoys working with data and finding patterns that tell a story.
 
-I enjoy working with data, building projects, and exploring how technology can be used to solve real-world problems. Currently, I am learning Machine Learning, improving my analytical skills, and building projects using Python, Power BI, and other data tools.
+What started with curiosity about how recommendation systems, AI tools, and analytics work has gradually turned into a strong interest in Machine Learning and Data Analytics.
 
-Always curious to learn, build, and grow as an engineer.
+Recently, I've been spending most of my time exploring Python, building analytics projects, creating dashboards, and learning how data can be used to make better decisions.
+
+Outside of academics, I enjoy participating in hackathons, building projects from scratch, and constantly learning new technologies.
+
+**Currently Exploring:** Machine Learning, Data Analytics, Power BI, Python, and AI Applications.
+
+---
+
+## What You'll Find Here
+
+* Data Analytics Projects
+* Machine Learning Experiments
+* Power BI Dashboards
+* Python Applications
+* Hackathon Projects
+* Learning Journey & Notes
+
+---
 
 ## Tech Stack
 
@@ -34,11 +45,10 @@ Always curious to learn, build, and grow as an engineer.
 <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 </p>
+
+---
+
+### Current Goal
+
+To build strong fundamentals in Machine Learning and Data Analytics while creating projects that solve practical problems and help me grow as an engineer.
